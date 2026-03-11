@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Chroma modifired
+chroma/
+*.bin
+*.sqlite3
