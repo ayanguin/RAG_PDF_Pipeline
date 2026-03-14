@@ -10,6 +10,7 @@ This repository contains experiments with LangChain document loaders and PDF pro
 
 ## Project Structure
 notebook/
+    
     document.ipynb
     
     pdf_loader.ipynb
